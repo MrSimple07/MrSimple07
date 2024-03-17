@@ -3,13 +3,11 @@
 ## About Me
 Hi there! 👋 My name is Muslimbek Abdurakhimov.
 
-I am a passionate Machine Learning Engineer with a strong interest in building sustainable smart systems.
+I am a passionate Machine Learning Engineer.
 
 ## Interests
-- Machine Learning
-- Artificial Intelligence
-- Sustainable Development
-- Smart Systems
+- Natural Language Processing
+- Deep Learning
 
 ## Contact Information
 
