@@ -22,8 +22,7 @@ I have worked on several exciting projects, including:
 ## Contact Information
 Feel free to reach out to me via email: [abdurahimov.muslimbek@gmail.com](mailto:abdurahimov.muslimbek@gmail.com)
 
-You can also find me on:
-- [Kaggle](https://www.kaggle.com/muslimbekabdurakhimov)
+You can also find me on: [Kaggle](https://www.kaggle.com/mrsimple07)
 
 ## Skills
 - **Programming Languages:** Python
